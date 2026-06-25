@@ -88,7 +88,7 @@ environment and neutral pose 2. Speech phase --- captures vocal baseline
 ## Installation
 
 ``` bash
-git clone https://github.com/Irin25/Multimodal-Human-Behaviour-Analysis-System.git
+git clone https://github.com/Multimodal-Behaviour-Analysis-System/Multimodal-Human-Behaviour-Analysis-System.git
 
 cd Multimodal-Human-Behaviour-Analysis-System
 
