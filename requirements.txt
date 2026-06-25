@@ -1,0 +1,39 @@
+# MHBAS - Multimodal Human Behaviour Analysis System
+
+# GUI
+PyQt6==6.10.2
+
+# Computer Vision
+opencv-python==4.9.0.80
+deepface==0.0.99
+retina-face==0.0.17
+
+# AI / Deep Learning
+tensorflow==2.10.0
+tensorflow-estimator==2.10.0
+torch==2.11.0
+torchvision==0.26.0
+transformers==5.3.0
+huggingface_hub==1.7.2
+safetensors==0.7.0
+
+# Numerical Processing
+numpy==1.23.5
+scipy==1.15.3
+scikit-learn==1.7.2
+
+# Audio Processing
+sounddevice==0.5.5
+librosa==0.11.0
+soundfile==0.13.1
+soxr==1.0.0
+
+# Visualization
+matplotlib==3.10.8
+pillow==12.1.1
+
+# Utilities
+requests==2.32.5
+pyyaml==6.0.3
+tqdm==4.67.3
+python-dotenv==1.2.2
